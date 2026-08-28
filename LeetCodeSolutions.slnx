@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="LeetCodeArraySolutions/LeetCodeArraySolutions.csproj" />
+  <Project Path="LeetCodeBinarySearchSolutions/LeetCodeBinarySearchSolutions.csproj" />
+  <Project Path="LeetCodeHashTableSolutions/LeetCodeHashTableSolutions.csproj" />
+  <Project Path="LeetCodeLinkedListSolutions/LeetCodeLinkedListSolutions.csproj" />
+  <Project Path="LeetCodePrefixSuffixSolutions/LeetCodePrefixSuffixSolutions.csproj" />
+  <Project Path="LeetCodeStackQueueSolutions/LeetCodeStackQueueSolutions.csproj" />
+  <Project Path="LeetCodeTwoPointersSolutions/LeetCodeTwoPointersSolutions.csproj" />
+</Solution>
