@@ -15,9 +15,3 @@
 | `LeetCodePrefixSuffixSolutions` | Префиксы и суффиксы |
 | `LeetCodeStackQueueSolutions` | Стек и очередь |
 | `LeetCodeTwoPointersSolutions` | Два указателя |
-
-## Запуск
-
-```bash
-dotnet build LeetCodeSolutions.slnx
-```
