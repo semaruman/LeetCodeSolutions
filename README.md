@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Решения задач с LeetCode на C# (.NET 10).
+Решения задач LeetCode
 
 > Мой профиль: [SemenRumyantsev](https://leetcode.com/u/SemenRumyantsev/)
 
@@ -17,3 +17,4 @@
 | `LeetCodePrefixSuffixSolutions` | Префиксы и суффиксы |
 | `LeetCodeStackQueueSolutions` | Стек и очередь |
 | `LeetCodeTwoPointersSolutions` | Два указателя |
+| `LeetCode50sqlSolutions` | SQL 50 |
