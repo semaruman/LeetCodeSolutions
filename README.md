@@ -1,6 +1,8 @@
 # LeetCode Solutions
 
-Решения задач с [LeetCode](https://leetcode.com/) на C# (.NET 10).
+Решения задач с LeetCode на C# (.NET 10).
+
+> Мой профиль: [SemenRumyantsev](https://leetcode.com/u/SemenRumyantsev/)
 
 ## Структура
 
@@ -15,9 +17,3 @@
 | `LeetCodePrefixSuffixSolutions` | Префиксы и суффиксы |
 | `LeetCodeStackQueueSolutions` | Стек и очередь |
 | `LeetCodeTwoPointersSolutions` | Два указателя |
-
-## Запуск
-
-```bash
-dotnet build LeetCodeSolutions.slnx
-```
