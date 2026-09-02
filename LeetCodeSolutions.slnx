@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="LeetCode50sqlSolutions/LeetCode50sqlSolutions.csproj" Id="39f40b19-9f28-47f1-ac41-e404424ec17d" />
   <Project Path="LeetCodeArraySolutions/LeetCodeArraySolutions.csproj" />
   <Project Path="LeetCodeBinarySearchSolutions/LeetCodeBinarySearchSolutions.csproj" />
   <Project Path="LeetCodeHashTableSolutions/LeetCodeHashTableSolutions.csproj" />
