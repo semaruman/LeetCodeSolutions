@@ -2,9 +2,25 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LeetCodeNewWay.VeryEasyTasks
+namespace LeetCodeNewWay.VeryEasyTasks._1672;
+
+public class Solution
 {
-    internal class _1672
+    public int MaximumWealth(int[][] accounts)
     {
+        int res = 0;
+
+        for (int i = 0; i < accounts.Length; i++)
+        {
+            int currentSum = 0;
+            for (int j = 0; j < accounts[i].Length; j++ )
+            {
+                currentSum += accounts[i][j];
+            }
+
+            res = Math.Max( res, currentSum );
+        }
+
+        return res;
     }
 }
