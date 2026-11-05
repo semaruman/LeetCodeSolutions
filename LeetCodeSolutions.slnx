@@ -1,9 +1,13 @@
 <Solution>
+  <Folder Name="/AnotherSolutions/">
+    <Project Path="AnotherSolutions/AnotherSolutions/AnotherSolutions.csproj" />
+  </Folder>
   <Project Path="LeetCode50sqlSolutions/LeetCode50sqlSolutions.csproj" Id="39f40b19-9f28-47f1-ac41-e404424ec17d" />
   <Project Path="LeetCodeArraySolutions/LeetCodeArraySolutions.csproj" />
   <Project Path="LeetCodeBinarySearchSolutions/LeetCodeBinarySearchSolutions.csproj" />
   <Project Path="LeetCodeHashTableSolutions/LeetCodeHashTableSolutions.csproj" />
   <Project Path="LeetCodeLinkedListSolutions/LeetCodeLinkedListSolutions.csproj" />
+  <Project Path="LeetCodeNewWay/LeetCodeNewWay.csproj" Id="d0dab067-6ba3-40b9-9ca9-8fd07328916f" />
   <Project Path="LeetCodePrefixSuffixSolutions/LeetCodePrefixSuffixSolutions.csproj" />
   <Project Path="LeetCodeStackQueueSolutions/LeetCodeStackQueueSolutions.csproj" />
   <Project Path="LeetCodeTwoPointersSolutions/LeetCodeTwoPointersSolutions.csproj" />
